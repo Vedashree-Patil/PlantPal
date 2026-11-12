@@ -1,0 +1,9 @@
+Metric,Value
+Total plant-condition classes,38
+Healthy classes,12
+Disease-condition classes,26
+Total images,54284
+Images in healthy classes,15071
+Images in disease-condition classes,39213
+Readable images,54284
+Unreadable images,0

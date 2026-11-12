@@ -1,0 +1,16 @@
+
+# Dataset images - do not upload
+cleaned_dataset/
+normalized_dataset/
+preprocessed_data/
+raw/
+dataset/
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code local settings
+.vscode/
